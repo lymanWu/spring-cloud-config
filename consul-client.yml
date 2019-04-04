@@ -2,5 +2,7 @@
 info:
   profile: default
   from: git1
+  username:lyman
+  pwd:123456
   
 test: bbb
