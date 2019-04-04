@@ -5,4 +5,4 @@ info:
   username: lyman
   pwd: 22222
   
-test: {cipher}fbe8ba92435b36be1d21bff974ce3fda6e25ca1dfabb6a46e4d34b755a0d5c894ca5799b1819d0aa076b445a8e7fa422
+test={cipher}fbe8ba92435b36be1d21bff974ce3fda6e25ca1dfabb6a46e4d34b755a0d5c894ca5799b1819d0aa076b445a8e7fa422
