@@ -3,6 +3,6 @@ info:
   profile: default
   from: git1
   username: lyman
-  pwd: 123456
+  pwd: {cipher}fbe8ba92435b36be1d21bff974ce3fda6e25ca1dfabb6a46e4d34b755a0d5c894ca5799b1819d0aa076b445a8e7fa422
   
 test: bbb
